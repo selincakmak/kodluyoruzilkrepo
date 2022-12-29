@@ -27,4 +27,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
+# patika.dev
+
+[patika.dev](https://app.patika.dev/selincakmak)
+
 
